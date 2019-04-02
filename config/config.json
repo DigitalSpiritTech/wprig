@@ -1,1 +1,10 @@
-{}
+{
+  "dev": {
+    "styles": {
+      "importFrom": ["_custom-properties.css", "_custom-media.css"]
+    },
+    "debug": {
+      "styles": true
+    }
+  }
+}

@@ -61,7 +61,7 @@ export function stylesAfterReplacementStream() {
 				config.dev.styles.stage :
 				3
 			),
-			preserve: true,
+			preserve: false,
 			features: (
 				configValueDefined('config.dev.styles.features') ?
 				config.dev.styles.features :
