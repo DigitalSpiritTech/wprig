@@ -1,13 +1,8 @@
 {
   "dev": {
     "browserSync": {
-      "live": true,
       "proxyURL": "statement.local",
-      "bypassPort": "8181",
       "https": true
-    },
-    "styles": {
-      "importFrom": ["_custom-properties.css", "_custom-media.css"]
     },
     "debug": {
       "styles": true
