@@ -8,6 +8,7 @@
 namespace WP_Rig\WP_Rig\Customizer;
 
 use WP_Rig\WP_Rig\Component_Interface;
+use WP_Rig\WP_Rig\Customizer\Layout;
 use function WP_Rig\WP_Rig\wp_rig;
 use WP_Customize_Manager;
 use function add_action;
